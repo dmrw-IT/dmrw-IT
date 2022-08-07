@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dylan - @dmrw_IT
+- 👋 Hi, I’m Dylan - @dmrwIT
 - 👀 I’m interested in ... Computers, Tech, Scripting and General I.T.
 - 🌱 I’m currently learning ... Python, Linux and Computer Networking.
 - 💞️ I’m looking to collaborate on ... I.T. related projects, Open-Source and Python Games/Apps.
